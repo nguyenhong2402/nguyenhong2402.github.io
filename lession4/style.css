@@ -1,0 +1,71 @@
+.logo {
+  max-width: 200px;
+  display: inline-block;
+}
+.search {
+  display: inline-block;
+  vertical-align: 30px;
+  border: 2px solid black;
+  height: 30px;
+  width: 500px;
+  box-sizing: border-box;
+}
+
+header {
+  border: 2px solid orange;
+}
+* {
+  margin-left: auto;
+  margin-right: auto;
+}
+body {
+  width: 900px;
+}
+.category {
+  width: 50px;
+  display: inline-block;
+}
+nav {
+  width: 900px;
+  box-sizing: border-box;
+  word-spacing: 3ch;
+}
+.akko {
+  padding-bottom: 15px;
+}
+.logitech {
+  width: 900px;
+  padding-top: 40px;
+}
+section img {
+  width: 200px;
+  display: inline-block;
+}
+h3 {
+  text-align: center;
+}
+.logitech2 {
+  display: inline-block;
+  padding-left: 20px;
+}
+.speak{
+    width: 300px;
+}
+.keyboard{
+    display: inline-block;
+    padding-left: 50px;
+}
+footer{
+    width: 900px;
+    border: 1px solid black;
+}
+h1{
+    text-align: center;
+}
+h4{
+    padding-left: 40px;
+}
+.paragraph{
+    padding-left: 10px;
+    padding-right: 10px;
+}
