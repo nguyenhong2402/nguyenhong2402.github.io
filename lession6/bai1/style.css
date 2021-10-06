@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 * {
     margin: 0;
     padding: 0;
@@ -167,15 +168,60 @@ input {
 
 .nav {
     background-color: cadetblue;
+=======
+/* Header */
+.header {
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.logo {
+    width: 120px;
+}
+
+.search-box {
+    height: 40px;
+    width: 100%;
+    border-radius: 0;
+    border: 1px solid #dfd4d4;
+    outline: none;
+}
+
+.user {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    border: 1px solid #dfd4d4;
+    display: block;
+    margin-left: auto;
+}
+
+/* Nav */
+.nav {
+    background-color: #2ea1b2;
+>>>>>>> 1b5fd5c10284e7bfa78af38a5c32cda9d6ad9e7e
 }
 
 .menu-link {
     color: #fff;
     text-decoration: none;
     display: inline-block;
+<<<<<<< HEAD
     padding: 10px;
 }
 
 .product {
     background-color: darkturquoise;
 }
+=======
+    padding: 10px 15px;
+    text-transform: uppercase;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS",
+        sans-serif;
+}
+
+.menu-link.active {
+    background-color: #2a94a5;
+}
+
+>>>>>>> 1b5fd5c10284e7bfa78af38a5c32cda9d6ad9e7e
